@@ -1,17 +1,22 @@
-# business-dashboard-project
-Interactive business dashboard for sales and profit analysis
-# Business Dashboard Project
+# 📊 Business Dashboard Project
 
-## Description
+## 📌 Description
 This project analyzes sales and profit data to understand business performance trends.
 
-## What this project does
+---
+
+## 📈 What this project does
 - Tracks monthly sales
 - Analyzes profit
 - Compares product performance
 
-## Tools Used
-- Excel / GitHub / Basic data analysis
+---
 
-## Goal
+## 🛠 Tools Used
+- Excel / GitHub
+- Basic data analysis
+
+---
+
+## 🎯 Goal
 To improve business analytics and decision-making skills.
